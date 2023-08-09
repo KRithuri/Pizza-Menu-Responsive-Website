@@ -132,3 +132,9 @@ header {
 .heading h2 {
     font-size: var(--h2-font);
 }
+.menu-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, auto));
+    gap: 1.5rem;
+    align-items: center;
+}
