@@ -23,3 +23,6 @@
     --h2-font: 2.24rem;
     --p-font: 0.9rem;
 }
+section {
+    padding: 50px 10%;
+}
