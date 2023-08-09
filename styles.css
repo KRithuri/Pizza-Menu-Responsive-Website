@@ -237,3 +237,14 @@ header {
 .contact-box li a:hover {
     color: var(--main-color);
 }
+.address {
+    display: flex;
+    flex-direction: column;
+}
+.address i {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+.address span {
+    margin-left: 1rem;
+}
