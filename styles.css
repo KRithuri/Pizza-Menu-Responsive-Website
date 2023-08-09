@@ -204,3 +204,18 @@ header {
     align-items: center;
     justify-content: space-around;
 }
+.connect-text span {
+    color: var(--main-color);
+    font-weight: 500;
+}
+  .connect-text h2 {
+    font-size: var(--h2-font);
+}
+.contact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    gap: 1.5rem;
+}
+.contact-box h3 {
+    margin-bottom: 1rem;
+}
