@@ -184,3 +184,23 @@ header {
 .box .bx:hover {
     background: #ffa400;
 }
+.servives-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, auto));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+.s-box {
+    text-align: center;
+}
+.s-box img {
+    width: 60px;
+}
+.s-box h3 {
+    margin: 4px 0 10px;
+}
+.connect {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
