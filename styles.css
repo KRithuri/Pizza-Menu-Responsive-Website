@@ -231,3 +231,9 @@ header {
 .social i:hover {
     color: var(--main-color);
 }
+.contact-box li a {
+    color: var(--text-color);
+}
+.contact-box li a:hover {
+    color: var(--main-color);
+}
