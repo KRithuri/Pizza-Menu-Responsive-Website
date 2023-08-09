@@ -34,3 +34,7 @@ body {
     color: var(--text-color);
     background: var(--bg-color);
 }
+#darkmode {
+    font-size: 25px;
+    cursor: pointer;
+}
